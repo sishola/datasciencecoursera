@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is repo forthe Coursera Data Science course
+Repo for Coursera Data Science course
